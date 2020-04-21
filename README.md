@@ -1,4 +1,7 @@
 # despicable_me
+ 
+ <img src="assets/s1.png" width="170" height="320">   <img src="assets/s2.png" width="170" height="320"> 
+
 
 A new Flutter project.
 
